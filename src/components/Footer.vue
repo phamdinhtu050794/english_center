@@ -142,7 +142,9 @@ export default {
   text-align: left;
 }
 a{
-  color: white;
+  // color: white;
+     color: #FFFFFF;
+    text-decoration: none;
 }
 .colum1{
   background-color: rgb(134, 7, 7);
