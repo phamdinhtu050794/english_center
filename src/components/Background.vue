@@ -1,7 +1,7 @@
 <template>
   <div class="background-container">
       <div>
-          <img src="@/assets/acet1.jpg" width="1920" height="800" />
+          <img src="@/assets/acet1.jpg" width="1600" height="640" />
            <div class="title-img">
         <h1>Academic English - International Education</h1>
         <hr width="15%" size="5px" align="center" color="red" />
